@@ -4,6 +4,8 @@ description: Lecture notes on uncertainty in engineering, events, and their prob
 file: /courses/1-010-uncertainty-in-engineering-fall-2008/e9911c0d241f63991438ed891063b508_notes_01.pdf
 file_size: 113620
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: Lecture notes on Bernoulli trial sequence and dependence in binary 
 file: /courses/1-010-uncertainty-in-engineering-fall-2008/8fc155598a75eb24c68b462423fbfc49_app_05.pdf
 file_size: 160126
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

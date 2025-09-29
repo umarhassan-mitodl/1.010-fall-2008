@@ -4,6 +4,8 @@ description: Final exam on uncertainty in engineering.
 file: /courses/1-010-uncertainty-in-engineering-fall-2008/6317b853229962e88034e6eae0030c7b_final_exam.pdf
 file_size: 73463
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

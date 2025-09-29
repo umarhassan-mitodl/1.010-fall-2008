@@ -5,6 +5,8 @@ description: Lecture handout on FOSM analysis for functions of many variables an
 file: /courses/1-010-uncertainty-in-engineering-fall-2008/907c1e63a5f96afacc1141b465b3e6f8_app_14.pdf
 file_size: 177814
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

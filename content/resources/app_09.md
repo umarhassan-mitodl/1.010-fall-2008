@@ -5,6 +5,8 @@ description: Lecture notes on joint, marginal, and conditional distributions, an
 file: /courses/1-010-uncertainty-in-engineering-fall-2008/41fad6a6caf2bf8e54f3dee60e1085c5_app_09.pdf
 file_size: 377262
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

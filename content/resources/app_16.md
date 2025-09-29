@@ -5,6 +5,8 @@ description: Lecture notes on conditional second moment analysis with vectors an
 file: /courses/1-010-uncertainty-in-engineering-fall-2008/7a14fddb8bd2ed123205fdf3bfdfd5eb_app_16.pdf
 file_size: 206796
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

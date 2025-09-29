@@ -5,6 +5,8 @@ description: Lecture notes on distribution of the maximum of independent identic
 file: /courses/1-010-uncertainty-in-engineering-fall-2008/5082ee7af11a0c0c20ee9d6e31552af8_app_11.pdf
 file_size: 324294
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

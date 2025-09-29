@@ -29,6 +29,7 @@
     "website": "1-010-uncertainty-in-engineering-fall-2008"
   },
   "course_title": "Uncertainty in Engineering",
+  "hide_download": true,
   "course_description": "This course gives an introduction to probability and statistics, with emphasis on engineering applications. Course topics include events and their probability, the total probability and Bayes' theorems, discrete and continuous random variables and vectors, uncertainty propagation and conditional analysis. Second-moment representation of uncertainty, random sampling, estimation of distribution parameters (method of moments, maximum likelihood, Bayesian estimation), and simple and multiple linear regression. Concepts illustrated with examples from various areas of engineering and everyday life.\n",
   "department_numbers": [
     "1"
@@ -39,6 +40,7 @@
     "content": "a80e8248-0715-e7d2-ec7a-357e0a1d747c",
     "website": "1-010-uncertainty-in-engineering-fall-2008"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Exams",

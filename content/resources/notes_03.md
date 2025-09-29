@@ -4,6 +4,8 @@ description: Lecture notes on random variables and continuous distributions.
 file: /courses/1-010-uncertainty-in-engineering-fall-2008/49d6ce49494cb524bc894cf276b6a35b_notes_03.pdf
 file_size: 119345
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: 'Lecture notes on independent random variables, and reliability of 
 file: /courses/1-010-uncertainty-in-engineering-fall-2008/f381e3ec395820c07a535bbafa2c731d_app_10.pdf
 file_size: 177902
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

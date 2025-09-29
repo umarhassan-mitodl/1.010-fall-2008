@@ -5,6 +5,8 @@ description: Lecture notes on exponential and Poisson distributions. Are the seq
 file: /courses/1-010-uncertainty-in-engineering-fall-2008/60ca2e937d397b58e64e8f0cb56432a0_app_06.pdf
 file_size: 328827
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
