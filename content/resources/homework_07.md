@@ -4,8 +4,6 @@ description: Homework assignment on uncertainty in engineering.
 file: /courses/1-010-uncertainty-in-engineering-fall-2008/29475fa98b390451d3c763383cc53666_homework_07.pdf
 file_size: 142632
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

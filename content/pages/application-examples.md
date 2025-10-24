@@ -3,8 +3,6 @@ content_type: page
 description: This section the schedule of lecture topics along with application examples.
   The application examples in this section provide worked examples on several topics
   and supplement the lecture notes.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Application Examples

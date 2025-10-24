@@ -4,8 +4,6 @@ description: Lecture notes on stochastic systems and Monte Carlo simulation.
 file: /courses/1-010-uncertainty-in-engineering-fall-2008/a8fa7b3acb8ef5d3f5056fc9d25de82c_app_18.pdf
 file_size: 203489
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

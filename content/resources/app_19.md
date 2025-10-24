@@ -5,8 +5,6 @@ description: Lecture notes on comparison of estimators for the upper limit of th
 file: /courses/1-010-uncertainty-in-engineering-fall-2008/39daffb399911137c1da1c49b6180c73_app_19.pdf
 file_size: 302207
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

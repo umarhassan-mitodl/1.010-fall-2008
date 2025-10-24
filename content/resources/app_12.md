@@ -5,8 +5,6 @@ description: Lecture notes on functions of random variables, reliability analysi
 file: /courses/1-010-uncertainty-in-engineering-fall-2008/1dd014d46f68cc7af702da444156a710_app_12.pdf
 file_size: 202174
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
